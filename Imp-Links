@@ -1,3 +1,19 @@
+
+Use th ebelow url with chrome to download the CSV file
+
+http://finance.google.com/finance/historical?q=NASDAQ:CTSH&startdate=Jan+01%2C+2007&enddate=Aug+2%2C+2007&output=csv
+
+https://finance.google.com/finance/historical?q=GOOGL
+
+http://finance.google.com/finance/getprices?q=CTSH&x=NASDAQ&i=60&p=600d&f=d,o,h,l,c,v&output=csv
+
+https://www.stock-data-solutions.com/kb/how-to-load-historical-prices-from-google-finance-to-csv.htm
+
+A python code is below.
+https://gist.github.com/lebedov/f09030b865c4cb142af1
+
+
+
 http://investexcel.net/multiple-stock-quote-downloader-for-excel/
 http://www.nasdaq.com/quotes/historical-quotes.aspx
 http://www.excely.com/template/stock-quotes-data-from-google-finance.shtml
